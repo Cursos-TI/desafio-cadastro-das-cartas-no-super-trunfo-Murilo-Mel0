@@ -32,5 +32,9 @@ int main (){
 
     Printf("Estado: %s - Codigo da carta: %d", Estado, Codigo da carta);
     Printf("Nome: %s - População: %f", Nome, População);
+    Printf("Área: %s - PIB: %f", Área, PIB);
+    Printf("Número de pontos turisticos: %s", Número de pontos turisticos);
+
+   return 0;
 
 }
